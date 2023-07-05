@@ -2,9 +2,9 @@ This workshop is great.  Lets add animals!
 
 Add your favorite animal!
 
-1- Pulpo
+1- Bobcat
 
-2- 
+2- Pulpo
 
 3- 
 
