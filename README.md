@@ -2,11 +2,12 @@ This workshop is great.  Lets add animals!
 
 Add your favorite animal!
 
-1- Shark
 
-2- 
+1- Bobcat
 
-3- 
+2- Pulpo
+
+3- Shark
 
 4- 
 
