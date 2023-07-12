@@ -2,9 +2,17 @@
 ## This is a header
 ### This is a header
 
+**This is bold** [^1]
+
+*This is italic*
+
 **This is bold**
 
 *This is italic*
+
+**This is bold**
+
+*This is italic* 
 
 [This is a link](www.google.ca)
 
@@ -24,3 +32,6 @@ Add your favorite animal!
 4- 
 
 5- 
+
+
+[^1]: This is the footnote
