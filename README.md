@@ -1,6 +1,5 @@
 # This is a header
 ## This is a header
-### This is a header
 
 **This is bold** [^1]
 
